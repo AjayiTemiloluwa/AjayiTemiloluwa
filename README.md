@@ -1,11 +1,10 @@
-I am a data analyst with proficiency in Python and a keen interest in learning new tools and techniques to expand my skillset. I am currently focused on developing my skills in R, Tableau, and SQL to further enhance my analytical capabilities.
+Temiloluwa is a highly motivated and diligent petroleum engineering student at the University of Ibadan with a profound passion for data analysis and its applications, especially in the energy sector. As a certified data analyst from the ALX-T UDACITY Data Analysis Nanodegree program and Google Professional Data Analytics on Coursera, and currently pursuing the Google Professional Advanced Data Analytics Certification and Dataquest Data science certification, Temiloluwa possesses a deep understanding of data analysis techniques and tools such as Python, R, SQL, Tableau, and Spreadsheets.
 
-With experience in data manipulation, data cleaning, and data visualization, I am committed to producing accurate and insightful results. I believe in the power of data-driven decision-making and I am passionate about using my skills to help organizations make informed decisions.
+Driven by a desire to contribute meaningfully to the energy industry, Temiloluwa is particularly interested in the United Nations Sustainable Development Goal 7 (SDG 7) - "Affordable and Clean Energy" and SDG 4 - "Quality Education" and SDG 13 - "Climate Action" to promote cleaner and sustainable energy solutions and a better environment.
 
-In addition to my technical skills, I possess strong communication skills and the ability to work effectively in a team environment. I am a lifelong learner and I am constantly seeking out new challenges and opportunities to develop my skills.
+With exceptional team spirit and communication skills, Temiloluwa thrives in collaborative environments, excelling at solving complex problems. Their ability to adapt quickly to new technologies ensures they stay at the forefront of emerging trends in data analysis and science.
 
-I am excited to share my projects and collaborate with other members of the data community on GitHub. Please feel free to reach out if you have any questions or would like to connect!
-
+Committed to ongoing learning and professional development, Temiloluwa is dedicated to making a positive impact in the energy industry and contributing to the realization of the Sustainable Development Goals.
 
 
 
